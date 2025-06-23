@@ -1,16 +1,13 @@
-## Hi there 👋
+Estudante de Ciência da Computação no 6° período, ex-professora de lógica da programação, orientação a objetos, SQL, DEV WEB (HTML,CSS, JS + REACT.js) e desenvolvimento de jogos 2D utilizando o motor Unity, com suporte de modelagem e animação em Adobe Maya para sprites e assets visuais.;
 
-<!--
-**KyraDio/kyradio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tecnologias que trabalho
 
-Here are some ideas to get you started:
+- **Back-end**: PHP · Laravel · MySQL
+- **Front-end**: JavaScript · React.js · jQuery · HTML · CSS · Bootstrap
+- **Versionamento**: Git · GitHub
+- **Outras tecnologias**: C · C# · .NET Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Objetivo
+- No momento: **Destruir a ELECTRONIC ARTS GAMES** (é brincadeira EA ME CONTRATA)
+
+- Objetivo futuro: Participar da criação de um jogo com alcance internacional, capaz de marcar presença significativa na cena global de desenvolvimento de games.
