@@ -1,4 +1,4 @@
-Estudante de Ciência da Computação no 6° período, ex-professora de lógica da programação, orientação a objetos, SQL, DEV WEB (HTML,CSS, JS + REACT.js) e desenvolvimento de jogos 2D utilizando o motor Unity, com suporte de modelagem e animação em Adobe Maya para sprites e assets visuais.;
+Estudante de Ciência da Computação no 6° período, ex-professora de lógica da programação, orientação a objetos com foco em C, C# usando .NET, SQL, DEV WEB (HTML,CSS, JS + REACT.js) e desenvolvimento de jogos 2D utilizando o motor Unity, com suporte de modelagem e animação em Adobe Maya para sprites e assets visuais.;
 
 # Tecnologias que trabalho
 
