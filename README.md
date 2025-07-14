@@ -5,7 +5,7 @@ Estudante de Ciência da Computação no 6° período, ex-professora de lógica 
 - **Back-end**: PHP · Laravel · MySQL
 - **Front-end**: JavaScript · React.js · jQuery · HTML · CSS · Bootstrap
 - **Versionamento**: Git · GitHub
-- **Outras tecnologias**: C · C# · .NET Framework
+- **Outras tecnologias**: C · C# · .NET CORE
 
 # Objetivo
 - No momento: **Destruir a ELECTRONIC ARTS GAMES** (é brincadeira EA ME CONTRATA)
